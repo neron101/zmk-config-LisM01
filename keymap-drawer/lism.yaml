@@ -31,18 +31,18 @@ layers:
   - ','
   - .
   - Sft+/
-  - {t: DEL, h: Device Layer}
-  - {t: Mouse Layer, h: toggle}
-  - {t: TAB, h: Mouse Layer}
+  - LBKT
+  - '&mkp MB2'
+  - LEFT WIN
   - Sft+Gui+4
   - {t: SPACE, h: Number Layer}
   - '&mkp MB1'
   - {t: ENTER, h: Mark Layer}
   - {t: BS, h: Device Layer}
   - BS
-  - F7
-  - F10
-  - {t: F12, h: Device Layer}
+  - RIGHT SHIFT
+  - TAB
+  - CAPS
   Mouse Layer:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -76,7 +76,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -203,14 +203,14 @@ layers:
   - ''
   - ''
   - Reset
-  - {t: Boot, type: held}
+  - Boot
   - BT CLR ALL
   - ''
   - ''
   - ''
   - ''
   - '&studio_unlock'
-  - ''
+  - {type: held}
   - ''
   - ''
   - ''

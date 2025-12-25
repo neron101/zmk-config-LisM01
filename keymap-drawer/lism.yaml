@@ -17,9 +17,9 @@ layers:
   - F
   - D
   - {t: H, h: RCTRL}
-  - {t: J, h: RGUI}
-  - {t: K, h: RSHIFT}
-  - {t: L, h: RALT}
+  - J
+  - K
+  - {t: L, h: RIGHT CONTROL}
   - '-'
   - Z
   - X
@@ -117,7 +117,7 @@ layers:
   - ↓
   - ''
   - RALT
-  - {t: ▽, type: trans}
+  - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -130,41 +130,41 @@ layers:
   - Ctl+TAB
   - F12
   Mark Layer:
-  - Sft+Gui+4
-  - F4
-  - (
-  - )
-  - ''
-  - '~'
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '&emoji'
-  - F5
-  - '['
-  - ']'
+  - Sft+1
+  - Sft+2
+  - Sft+3
+  - Sft+4
+  - Sft+5
+  - Sft+6
+  - Sft+7
+  - Sft+8
+  - Sft+9
+  - Sft+0
+  - LEFT ARROW
+  - UP ARROW
+  - →
+  - {t: ▽, type: trans}
   - ''
   - '`'
   - _
   - ''''
   - '"'
   - \
-  - KP NUMLOCK
-  - F11
-  - '{'
-  - '}'
+  - ←
+  - ↓
+  - RIGHT ARROW
+  - {t: ▽, type: trans}
   - ''
   - '|'
   - '%'
   - ^
   - '&'
   - '*'
+  - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '0'
   - {t: ▽, type: trans}
-  - SPACE
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
   - ENTER

@@ -103,9 +103,9 @@ layers:
   - {t: ▽, type: trans}
   - LANGUAGE 1
   - '&mkp MB1'
-  - ←
-  - ↑
-  - →
+  - '&msc SCRL_LEFT'
+  - '&msc SCRL_UP'
+  - '&msc SCRL_RIGHT'
   - RGUI
   - LEFT ARROW
   - DOWN ARROW
@@ -114,7 +114,7 @@ layers:
   - LANGUAGE 2
   - '&mkp MB2'
   - ''
-  - ↓
+  - '&msc SCRL_DOWN'
   - ''
   - RALT
   - ']'

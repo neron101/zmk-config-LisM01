@@ -144,22 +144,22 @@ layers:
   - UP ARROW
   - →
   - {t: ▽, type: trans}
-  - ''
-  - '`'
+  - LANGUAGE 1
+  - '&mkp MB1'
   - _
-  - ''''
-  - '"'
-  - \
+  - '-'
+  - TILDE2
+  - /
   - ←
   - ↓
   - RIGHT ARROW
   - {t: ▽, type: trans}
-  - ''
-  - '|'
-  - '%'
-  - ^
-  - '&'
-  - '*'
+  - LANGUAGE 2
+  - '&mkp MB2'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -171,7 +171,7 @@ layers:
   - {t: ▽, type: trans}
   - ''
   - ''
-  - F12
+  - {t: ▽, type: trans}
   Device Layer:
   - ''
   - ''

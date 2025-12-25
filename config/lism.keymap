@@ -57,7 +57,7 @@
 &kp LBKT  &mkp MB2  &kp LEFT_WIN  &kp LS(LG(N4))  &lt 2 SPACE  &mkp MB1    &lt 3 ENTER  &lt 4 BACKSPACE  &kp BACKSPACE  &kp RIGHT_SHIFT  &kp TAB              &kp CAPS
             >;
 
-            sensor-bindings = <&inc_dec_kp C_AC_SCROLL_UP K_SCROLL_DOWN>;
+            sensor-bindings = <&encoder_msc SCRL_UP SCRL_DOWN>;
         };
 
         layer_1 {

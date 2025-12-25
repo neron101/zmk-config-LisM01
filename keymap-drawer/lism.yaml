@@ -36,7 +36,7 @@ layers:
   - {t: TAB, h: Mouse Layer}
   - Sft+Gui+4
   - {t: SPACE, h: Number Layer}
-  - {t: ESC, h: Mark Layer}
+  - '&mkp MB1'
   - {t: BS, h: Mark Layer}
   - {t: ENTER, h: Number Layer}
   - Sft+Gui+4
@@ -87,41 +87,41 @@ layers:
   - {t: ▽, type: trans}
   - Gui+W
   Number Layer:
-  - {t: ▽, type: trans}
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
   - '7'
   - '8'
   - '9'
-  - '='
-  - F1
-  - F2
-  - F7
-  - F10
-  - RSHIFT
-  - '*'
-  - {t: '4', h: LALT}
-  - {t: '5', h: LSHIFT}
-  - {t: '6', h: LGUI}
-  - {t: '-', h: LCTRL}
+  - '0'
+  - ←
+  - UP ARROW
+  - →
+  - {t: ▽, type: trans}
+  - LANGUAGE 1
   - '&mkp MB1'
   - ←
   - ↑
   - →
   - RGUI
-  - /
-  - '1'
-  - '2'
-  - '3'
-  - +
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
+  - {t: ▽, type: trans}
+  - LANGUAGE 2
   - '&mkp MB2'
   - ''
   - ↓
   - ''
   - RALT
   - {t: ▽, type: trans}
-  - .
-  - '0'
   - {t: ▽, type: trans}
-  - {t: LANG2, type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LANG1

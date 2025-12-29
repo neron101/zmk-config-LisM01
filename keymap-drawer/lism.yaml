@@ -126,9 +126,9 @@ layers:
   - {t: ▽, type: trans}
   - LANG1
   - {t: ▽, type: trans}
-  - Sft+Ctl+TAB
-  - Ctl+TAB
-  - F12
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   Mark Layer:
   - Sft+1
   - Sft+2

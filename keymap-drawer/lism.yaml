@@ -215,3 +215,14 @@ layers:
   - ''
   - ''
   - Boot
+combos:
+- p: [12, 11]
+  k: TAB
+- p: [14, 13]
+  k: {t: SPACE, h: Number Layer}
+- p: [0, 1]
+  k: LANGUAGE 1
+- p: [10, 11]
+  k: LANGUAGE 2
+- p: [4, 3]
+  k: '&mkp MB2'

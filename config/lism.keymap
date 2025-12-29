@@ -45,6 +45,35 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        t {
+            bindings = <&kp TAB>;
+            key-positions = <12 11>;
+        };
+
+        lay2 {
+            bindings = <&lt 2 SPACE>;
+            key-positions = <14 13>;
+        };
+
+        lang1 {
+            bindings = <&kp LANGUAGE_1>;
+            key-positions = <0 1>;
+        };
+
+        lang2 {
+            bindings = <&kp LANGUAGE_2>;
+            key-positions = <10 11>;
+        };
+
+        mb2 {
+            bindings = <&mkp MB2>;
+            key-positions = <4 3>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 

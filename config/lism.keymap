@@ -102,10 +102,10 @@
         layer_2 {
             display-name = "Number Layer";
             bindings = <
-&kp NUMBER_1       &kp NUMBER_2    &kp NUMBER_3     &kp NUMBER_4  &kp N5                            &kp NUMBER_6  &kp N7          &kp N8           &kp N9           &kp N0
-&kp LEFT           &kp UP_ARROW    &kp RIGHT        &trans        &kp LANGUAGE_1                    &mkp MB1      &msc SCRL_LEFT  &msc SCRL_UP     &msc SCRL_RIGHT  &kp RGUI
-&kp LEFT_ARROW     &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans        &kp LANGUAGE_2                    &mkp MB2      &none           &msc SCRL_DOWN   &none            &kp RALT
-&kp RIGHT_BRACKET  &trans          &trans           &trans        &trans          &trans    &trans  &kp LANG1     &trans          &kp RS(RC(TAB))  &kp RC(TAB)      &kp F12
+&kp NUMBER_1       &kp NUMBER_2    &kp NUMBER_3     &kp NUMBER_4    &kp N5                            &kp NUMBER_6  &kp N7          &kp N8             &kp N9           &kp N0
+&kp LEFT           &kp UP_ARROW    &kp RIGHT        &kp LEFT_GUI    &kp LANGUAGE_1                    &mkp MB1      &msc SCRL_LEFT  &msc SCRL_UP       &msc SCRL_RIGHT  &kp MINUS
+&kp LEFT_ARROW     &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LEFT_SHIFT  &kp LANGUAGE_2                    &mkp MB2      &none           &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp EQUAL
+&kp RIGHT_BRACKET  &trans          &trans           &trans          &trans          &trans    &trans  &kp LANG1     &trans          &kp RS(RC(TAB))    &kp RC(TAB)      &kp F12
             >;
 
             sensor-bindings = <&encoder_kp C_VOL_UP C_VOL_DN>;

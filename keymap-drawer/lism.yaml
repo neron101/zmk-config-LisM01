@@ -100,23 +100,23 @@ layers:
   - ←
   - UP ARROW
   - →
-  - {t: ▽, type: trans}
+  - LEFT GUI
   - LANGUAGE 1
   - '&mkp MB1'
   - '&msc SCRL_LEFT'
   - '&msc SCRL_UP'
   - '&msc SCRL_RIGHT'
-  - RGUI
+  - '-'
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
   - LANGUAGE 2
   - '&mkp MB2'
   - ''
-  - '&msc SCRL_DOWN'
-  - ''
-  - RALT
+  - VOLUME DOWN
+  - VOLUME UP
+  - '='
   - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

@@ -325,31 +325,19 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key tap">CAPS</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
-<text x="112" y="84" class="combo tap">TAB</text>
+<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
+<text x="224" y="28" class="combo tap">TAB</text>
 </g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="210" y="71" width="28" height="26" class="combo"/>
-<text x="224" y="84" class="combo tap">SPACE</text>
-<a href="#Number-Layer">
-<text x="224" y="95" class="combo hold layer-activator"><tspan style="font-size: 64%">Number Lay…</tspan></text>
-</a></g>
+<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
+<text x="112" y="28" class="combo tap">
+<tspan x="112" dy="-0.6em">LEFT</tspan><tspan x="112" dy="1.2em">CONTROL</tspan>
+</text>
+</g>
 <g class="combo combopos-2">
 <rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
 <text x="56" y="28" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">1</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="42" y="71" width="28" height="26" class="combo"/>
-<text x="56" y="84" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">2</tspan>
-</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
-<text x="224" y="28" class="combo tap">
-<tspan x="224" dy="-0.6em">&amp;mkp</tspan><tspan x="224" dy="1.2em">MB2</tspan>
+<tspan x="56" dy="-0.6em">LEFT</tspan><tspan x="56" dy="1.2em">SHIFT</tspan>
 </text>
 </g>
 </g>
@@ -540,31 +528,19 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key tap">Gui+W</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
-<text x="112" y="84" class="combo tap">TAB</text>
+<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
+<text x="224" y="28" class="combo tap">TAB</text>
 </g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="210" y="71" width="28" height="26" class="combo"/>
-<text x="224" y="84" class="combo tap">SPACE</text>
-<a href="#Number-Layer">
-<text x="224" y="95" class="combo hold layer-activator"><tspan style="font-size: 64%">Number Lay…</tspan></text>
-</a></g>
+<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
+<text x="112" y="28" class="combo tap">
+<tspan x="112" dy="-0.6em">LEFT</tspan><tspan x="112" dy="1.2em">CONTROL</tspan>
+</text>
+</g>
 <g class="combo combopos-2">
 <rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
 <text x="56" y="28" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">1</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="42" y="71" width="28" height="26" class="combo"/>
-<text x="56" y="84" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">2</tspan>
-</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
-<text x="224" y="28" class="combo tap">
-<tspan x="224" dy="-0.6em">&amp;mkp</tspan><tspan x="224" dy="1.2em">MB2</tspan>
+<tspan x="56" dy="-0.6em">LEFT</tspan><tspan x="56" dy="1.2em">SHIFT</tspan>
 </text>
 </g>
 </g>
@@ -769,31 +745,19 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
-<text x="112" y="84" class="combo tap">TAB</text>
+<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
+<text x="224" y="28" class="combo tap">TAB</text>
 </g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="210" y="71" width="28" height="26" class="combo"/>
-<text x="224" y="84" class="combo tap">SPACE</text>
-<a href="#Number-Layer">
-<text x="224" y="95" class="combo hold layer-activator"><tspan style="font-size: 64%">Number Lay…</tspan></text>
-</a></g>
+<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
+<text x="112" y="28" class="combo tap">
+<tspan x="112" dy="-0.6em">LEFT</tspan><tspan x="112" dy="1.2em">CONTROL</tspan>
+</text>
+</g>
 <g class="combo combopos-2">
 <rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
 <text x="56" y="28" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">1</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="42" y="71" width="28" height="26" class="combo"/>
-<text x="56" y="84" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">2</tspan>
-</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
-<text x="224" y="28" class="combo tap">
-<tspan x="224" dy="-0.6em">&amp;mkp</tspan><tspan x="224" dy="1.2em">MB2</tspan>
+<tspan x="56" dy="-0.6em">LEFT</tspan><tspan x="56" dy="1.2em">SHIFT</tspan>
 </text>
 </g>
 </g>
@@ -981,31 +945,19 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
-<text x="112" y="84" class="combo tap">TAB</text>
+<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
+<text x="224" y="28" class="combo tap">TAB</text>
 </g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="210" y="71" width="28" height="26" class="combo"/>
-<text x="224" y="84" class="combo tap">SPACE</text>
-<a href="#Number-Layer">
-<text x="224" y="95" class="combo hold layer-activator"><tspan style="font-size: 64%">Number Lay…</tspan></text>
-</a></g>
+<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
+<text x="112" y="28" class="combo tap">
+<tspan x="112" dy="-0.6em">LEFT</tspan><tspan x="112" dy="1.2em">CONTROL</tspan>
+</text>
+</g>
 <g class="combo combopos-2">
 <rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
 <text x="56" y="28" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">1</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="42" y="71" width="28" height="26" class="combo"/>
-<text x="56" y="84" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">2</tspan>
-</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
-<text x="224" y="28" class="combo tap">
-<tspan x="224" dy="-0.6em">&amp;mkp</tspan><tspan x="224" dy="1.2em">MB2</tspan>
+<tspan x="56" dy="-0.6em">LEFT</tspan><tspan x="56" dy="1.2em">SHIFT</tspan>
 </text>
 </g>
 </g>
@@ -1161,31 +1113,19 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key tap">Boot</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
-<text x="112" y="84" class="combo tap">TAB</text>
+<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
+<text x="224" y="28" class="combo tap">TAB</text>
 </g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="210" y="71" width="28" height="26" class="combo"/>
-<text x="224" y="84" class="combo tap">SPACE</text>
-<a href="#Number-Layer">
-<text x="224" y="95" class="combo hold layer-activator"><tspan style="font-size: 64%">Number Lay…</tspan></text>
-</a></g>
+<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
+<text x="112" y="28" class="combo tap">
+<tspan x="112" dy="-0.6em">LEFT</tspan><tspan x="112" dy="1.2em">CONTROL</tspan>
+</text>
+</g>
 <g class="combo combopos-2">
 <rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
 <text x="56" y="28" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">1</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="42" y="71" width="28" height="26" class="combo"/>
-<text x="56" y="84" class="combo tap">
-<tspan x="56" dy="-0.6em" style="font-size: 88%">LANGUAGE</tspan><tspan x="56" dy="1.2em" style="font-size: 88%">2</tspan>
-</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="210" y="15" width="28" height="26" class="combo"/>
-<text x="224" y="28" class="combo tap">
-<tspan x="224" dy="-0.6em">&amp;mkp</tspan><tspan x="224" dy="1.2em">MB2</tspan>
+<tspan x="56" dy="-0.6em">LEFT</tspan><tspan x="56" dy="1.2em">SHIFT</tspan>
 </text>
 </g>
 </g>

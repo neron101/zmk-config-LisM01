@@ -103,9 +103,9 @@ layers:
   - LEFT GUI
   - LANGUAGE 1
   - '&mkp MB1'
-  - '&msc SCRL_LEFT'
-  - '&msc SCRL_UP'
-  - '&msc SCRL_RIGHT'
+  - MUTE
+  - VOLUME DOWN
+  - VOL UP
   - '-'
   - LEFT ARROW
   - DOWN ARROW
@@ -113,9 +113,9 @@ layers:
   - LEFT SHIFT
   - LANGUAGE 2
   - '&mkp MB2'
-  - ''
-  - VOLUME DOWN
-  - VOLUME UP
+  - RIGHT GUI
+  - '-'
+  - '='
   - '='
   - ']'
   - {t: ▽, type: trans}
@@ -146,9 +146,9 @@ layers:
   - {t: ▽, type: trans}
   - LANGUAGE 1
   - '&mkp MB1'
-  - _
-  - '-'
-  - TILDE2
+  - MUTE
+  - VOLUME DOWN
+  - VOLUME UP
   - /
   - ←
   - ↓
@@ -156,9 +156,9 @@ layers:
   - {t: ▽, type: trans}
   - LANGUAGE 2
   - '&mkp MB2'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT GUI
+  - '-'
+  - '='
   - {t: ▽, type: trans}
   - ']'
   - {t: ▽, type: trans}

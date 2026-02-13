@@ -210,12 +210,6 @@
     
     };
 
-    // セントラルのためのリスナー（後でdeviceを割当）
-    central_listener: central_listener {
-        compatible = "zmk,input-listener";
-        status = "disabled";
-    };
-
     /* 充電ステータス */
     chg_stat: chg_stat {
         compatible = "custom,chg-stat";
